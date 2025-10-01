@@ -1,0 +1,5 @@
+com/productmanagement/service/ProductService.class
+com/productmanagement/repository/ProductRepository.class
+com/productmanagement/model/Product.class
+com/productmanagement/ProductManagementAppApplication.class
+com/productmanagement/controller/ProductController.class
